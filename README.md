@@ -1,5 +1,5 @@
 # (2025) Master-s-Thesis-Image-Dehazing-via-Deep-Learning-Based-Depth-Estimation-and-Multiscale-Fusion
-![圖片1](https://github.com/user-attachments/assets/1b625bd6-c609-4a24-9d50-3702bd8f3cce)
+![螢幕擷取畫面 2025-04-27 170524](https://github.com/user-attachments/assets/a57ebb50-ef2b-4039-8fa0-78fd5e779e75)
 
 
 

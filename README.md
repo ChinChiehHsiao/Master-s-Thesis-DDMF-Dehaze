@@ -8,11 +8,10 @@
 
 實驗結果 
 ---
-
-
-
-
-
+![showgithub (cones)](https://github.com/user-attachments/assets/9d8565ae-87e5-47fd-b992-1a7b210584ab)
+![showgithub (bear1)](https://github.com/user-attachments/assets/aeac6bb7-661f-4f86-b337-5457aba21859)
+![showgithub (03125946_64f412c2409657785)](https://github.com/user-attachments/assets/88ba271b-08d4-4323-b216-e93f207dba9b)
+![showgithub (plane)](https://github.com/user-attachments/assets/050957ed-d36a-4127-b190-752e0724d152)<br><br>
 
 
 

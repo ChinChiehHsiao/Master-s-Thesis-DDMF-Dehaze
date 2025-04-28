@@ -19,6 +19,14 @@
 
 
 
+環境版本
+---
+- Python 3.6.13 
+- Tensorflow 2.1.0
+- Memory : 128 GB
+- OS : windows11
+- CPU : AMD Ryzen Threadripper 2990WX 32-Core Processor
+- GPU : NVIDIA TITAN RTX (24GB)<br><br>
 
 
 

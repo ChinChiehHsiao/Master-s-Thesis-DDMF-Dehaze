@@ -1,4 +1,4 @@
-# (2025) Master's Thesis : Image Dehazing via Deep-Learning-Based Depth Estimation and Multiscale Fusion
+# (2025) Master's Thesis : DDMF-Dehaze_Image Dehazing via Deep-Learning-Based Depth Estimation and Multiscale Fusion
 ![Python](https://img.shields.io/badge/python-3.6.13-blue)
 ![tensorflow](https://img.shields.io/badge/tensorflow-2.1.0-green)
 ---

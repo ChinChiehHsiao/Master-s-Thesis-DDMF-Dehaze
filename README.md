@@ -17,10 +17,11 @@
 
 
 
-去霧技術對於視覺辨識之效益 
+去霧技術對於物件辨識之效益 (YOLO11x) 
 ---
 ![image](https://github.com/user-attachments/assets/551ae849-9892-4e51-a0b3-38dc6f5d1953)
-![image](https://github.com/user-attachments/assets/5a2b432c-8e73-4e47-891e-22ed6466724a)<br><br>
+![image](https://github.com/user-attachments/assets/5a2b432c-8e73-4e47-891e-22ed6466724a)
+![image](https://github.com/user-attachments/assets/774eaa86-eb54-4858-a9b3-7d8b955b9292)<br><br>
 
 
 

@@ -17,6 +17,12 @@
 
 
 
+去霧技術對於視覺辨識之效益 
+---
+![image](https://github.com/user-attachments/assets/551ae849-9892-4e51-a0b3-38dc6f5d1953)
+![image](https://github.com/user-attachments/assets/5a2b432c-8e73-4e47-891e-22ed6466724a)<br><br>
+
+
 
 
 環境版本
@@ -39,4 +45,4 @@
 - 作者 : 蕭晉杰
 - 指導教授 : 游承書 博士
 - 建立時間 : 2025.04.27
-- 最後更新 : 2025.05.07
+- 最後更新 : 2025.05.30

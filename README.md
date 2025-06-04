@@ -25,6 +25,14 @@
 
 
 
+操作說明 
+---
+若想自行訓練模型，訓練資料為 Kaggle 之兩公開資料集 : [乾淨影像資料集](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg/data), [深度影像資料集](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg-depth/data)
+把圖片放進 `my dataset` 資料夾，打開 `my_CAP_main.py` 檔案執行即可<br>
+結果圖將儲存在 `my result` 資料夾中。<br><br>
+
+
+
 深度圖資料集
 ---
 - 乾淨影像資料集：[點擊此連結](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg/data)

@@ -27,8 +27,8 @@
 
 有霧影像深度圖訓練資料集來源
 ---
-- 乾淨影像資料集：[點擊此連結]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=712839](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg/data)6)
-- 深度影像資料集：[點擊此連結]([https://doi.org/10.1109/TIP.2015.2446191](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg-depth/data))<br><br>
+- 乾淨影像資料集：[點擊此連結](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg/data)
+- 深度影像資料集：[點擊此連結](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg-depth/data)<br><br>
 
 
 

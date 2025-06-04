@@ -33,13 +33,6 @@
 
 
 
-深度圖資料集
----
-- 乾淨影像資料集：[點擊此連結](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg/data)
-- 深度影像資料集：[點擊此連結](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg-depth/data)<br><br>
-
-
-
 環境版本
 ---
 - Python 3.6.13 

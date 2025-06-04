@@ -27,7 +27,8 @@
 
 操作說明 
 ---
-若想自行訓練模型，訓練資料為 Kaggle 之兩公開資料集 : [乾淨影像資料集](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg/data), [深度影像資料集](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg-depth/data)
+- 若想自行訓練模型，訓練資料為 Kaggle 之兩公開資料集 : [乾淨影像資料集](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg/data), [深度影像資料集](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg-depth/data)，請使用 `generate hazy image.ipynb` 檔案合成人造有霧影像與大氣光 A.csv，並使用 `training code.ipynb` 檔案進行訓練<br>
+- 若想
 把圖片放進 `my dataset` 資料夾，打開 `my_CAP_main.py` 檔案執行即可<br>
 結果圖將儲存在 `my result` 資料夾中。<br><br>
 

@@ -26,7 +26,7 @@
 - 若想自行訓練模型，訓練資料為 Kaggle 之兩公開資料集 : [乾淨影像資料集](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg/data), [深度影像資料集](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg-depth/data)，請執行 `generate hazy image.ipynb` 檔案合成人造有霧影像，同時會存下一個大氣光 A.csv 的檔案，並使用 `training code.ipynb` 檔案進行訓練，即可得到訓練完畢之模型與權重 model+weights.h5<br>
 
 ### 測試
-- 若想直接對影像去霧，您可以在 [Google Drive] 上下載預訓練模型與大氣光檔案 A.csv，並將圖片放進 `???????` 資料夾，執行 `????????.ipynb` 檔案即可，結果圖將儲存在 `???????` 資料夾中。<br><br>
+- 若想直接對影像去霧，您可以在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載預訓練模型與大氣光檔案 A.csv，並將圖片放進 `???????` 資料夾，執行 `????????.ipynb` 檔案即可，結果圖將儲存在 `???????` 資料夾中。<br><br>
 
 
 

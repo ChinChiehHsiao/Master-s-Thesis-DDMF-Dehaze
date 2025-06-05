@@ -25,7 +25,7 @@
 ### 訓練
 若想自行訓練模型，請依照以下步驟下載資料集並訓練 : 
 - 您可以在 Kaggle 上下載原始資料集來源 [無霧影像](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg/data)、[深度影像](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg-depth/data)，並執行 `generate hazy image.ipynb` 檔案合成人造有霧影像，同時會存下一個大氣光 `A.csv` 檔案用於後續訓練；或是直接在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載已合成的人造有霧影像訓練資料與大氣光 `A.csv` 檔案。
-- 使用 `training code.ipynb` 檔案進行訓練，即可得到訓練完畢之模型與權重 model+weights.h5<br>
+- 使用 `training code.ipynb` 檔案進行訓練，即可得到訓練完畢之模型與權重 `model+weights.h5`<br>
 
 ### 測試
 - 若想直接對影像去霧，您可以在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載預訓練模型，並將圖片放進 `???????` 資料夾，執行 `????????.ipynb` 檔案即可，結果圖將儲存在 `???????` 資料夾中。<br><br>

@@ -23,12 +23,12 @@
 
 ## 訓練與測試
 ### 訓練
-- 您可以在 Kaggle 上下載原始資料集來源 [無霧影像](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg/data)、[深度影像](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg-depth/data)，並執行 `generate hazy image.ipynb` 檔案合成人造有霧影像，同時會存下一個大氣光 `A.csv` 檔案用於後續訓練；或是直接在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載已合成的人造有霧影像訓練資料與大氣光 `A.csv` 檔案。
+- 您可以在 Kaggle 上下載原始資料集來源 [無霧影像](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg/data)、[深度影像](https://www.kaggle.com/datasets/innominate817/pexels-110k-512p-min-jpg-depth/data)，並執行 `generate hazy image.ipynb` 檔案合成人造有霧影像，同時會存下一個大氣光 `A.csv` 檔案用於後續訓練；或是直接在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載我們已合成的人造有霧影像訓練資料 `image/`、`depth/`、`hazy_image/` 與大氣光 `A.csv` 檔案。
 - 使用 `training code.ipynb` 檔案進行訓練，即可得到自行訓練完畢之模型與權重 `model+weights.h5`<br>
 
 ### 測試
-- 若想測試影像去霧效果，您可以在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載預訓練模型 `model+weights.h5`，並將圖片放進 `data/` 資料夾，執行 `????????.ipynb` 檔案即可，去霧結果將儲存在 `???????` 資料夾中。
-- 若想測試去霧後 YOLO 偵測效果，您可以在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載預訓練模型 `model+weights.h5`，並將圖片放進 `???????` 資料夾，執行 `????????.ipynb` 檔案即可，去霧後 YOLO 辨識結果將儲存在 `???????` 資料夾中。<br><br>
+- 若想測試影像去霧效果，您可以在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載預訓練模型 `model+weights.h5`，並將圖片放進 `data/` 資料夾，執行 `run dehaze.ipynb` 檔案即可，去霧結果將儲存在 `dehaze result/` 資料夾中。
+- 若想測試去霧後 YOLO 偵測效果，您可以在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載預訓練模型 `model+weights.h5` 與 YOLO11x 模型 `yolo11x.pt`，並將圖片放進 `data/` 資料夾，執行 `run dehaze and YOLO detection.ipynbpynb` 檔案即可，去霧後 YOLO 辨識結果將儲存在 `dehaze and YOLO result/` 資料夾中。<br><br>
 
 
 

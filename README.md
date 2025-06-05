@@ -28,6 +28,7 @@
 
 ### 測試
 - 若想直接對影像去霧，您可以在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載預訓練模型 `model+weights.h5`，並將圖片放進 `???????` 資料夾，執行 `????????.ipynb` 檔案即可，結果圖將儲存在 `???????` 資料夾中。<br><br>
+- 若想直接對影像去霧，您可以在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載預訓練模型 `model+weights.h5`，並將圖片放進 `???????` 資料夾，執行 `????????.ipynb` 檔案即可，結果圖將儲存在 `???????` 資料夾中。<br><br>
 
 
 

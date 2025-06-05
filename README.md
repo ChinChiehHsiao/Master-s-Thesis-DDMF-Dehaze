@@ -28,7 +28,7 @@
 
 ### 測試
 - 若想測試影像去霧效果，您可以在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載預訓練模型 `model+weights.h5`，並將圖片放進 `data/` 資料夾，執行 `run dehaze.ipynb` 檔案即可，去霧結果將儲存在 `dehaze result/` 資料夾中。
-- 若想測試去霧後 YOLO 偵測效果，您可以在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載預訓練模型 `model+weights.h5` 與 YOLO11x 模型 `yolo11x.pt`，並將圖片放進 `data/` 資料夾，執行 `run dehaze and YOLO detection.ipynbpynb` 檔案即可，去霧後 YOLO 辨識結果將儲存在 `dehaze and YOLO result/` 資料夾中。<br><br>
+- 若想測試去霧後 YOLO 偵測效果，您可以在 [Google Drive](https://drive.google.com/drive/folders/1BqCzjmvuyd-YitLEH-FKEsslsphNciWf?usp=drive_link) 上下載預訓練模型 `model+weights.h5` 與 YOLO11x 模型 `yolo11x.pt`，並將圖片放進 `data/` 資料夾，執行 `run dehaze and YOLO detection.ipynb` 檔案即可，去霧後 YOLO 辨識結果將儲存在 `dehaze and YOLO result/` 資料夾中。<br><br>
 
 
 

@@ -6,7 +6,7 @@
 ![螢幕擷取畫面 2025-06-04 200729](https://github.com/user-attachments/assets/d25593c0-340b-4e89-b091-f508378b1fc2)<br><br>
 
 
-## 實驗結果與應用
+## 實驗結果
 ### 去霧與深度圖
 ![showgithub (cones)](https://github.com/user-attachments/assets/9d8565ae-87e5-47fd-b992-1a7b210584ab)
 ![showgithub (forest2)](https://github.com/user-attachments/assets/bb15d563-c816-42d3-8a93-20da62f5dbdd)

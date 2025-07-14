@@ -14,6 +14,9 @@
 ![showgithub (03125946_64f412c2409657785)](https://github.com/user-attachments/assets/88ba271b-08d4-4323-b216-e93f207dba9b)
 ![showgithub (plane)](https://github.com/user-attachments/assets/050957ed-d36a-4127-b190-752e0724d152)<br><br>
 
+### 其他去霧方法比較
+<img width="2442" height="1002" alt="螢幕擷取畫面 2025-07-14 143934" src="https://github.com/user-attachments/assets/72a5ff0e-f216-4b4c-97cd-48823e2ca8aa" /><br><br>
+
 ### 去霧技術對於物件辨識之效益 (YOLO11x) 
 ![image](https://github.com/user-attachments/assets/551ae849-9892-4e51-a0b3-38dc6f5d1953)
 ![image](https://github.com/user-attachments/assets/5a2b432c-8e73-4e47-891e-22ed6466724a)

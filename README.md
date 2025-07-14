@@ -4,6 +4,7 @@
 ---
 
 ![螢幕擷取畫面 2025-06-04 200729](https://github.com/user-attachments/assets/d25593c0-340b-4e89-b091-f508378b1fc2)<br><br>
+<img width="2559" height="1339" alt="螢幕擷取畫面 2025-07-14 142133" src="https://github.com/user-attachments/assets/ebf36278-c10d-4deb-ac9a-84578aa6b267" />
 
 
 ## 實驗結果

@@ -52,7 +52,7 @@
 ---
 
 - 聯繫 : jayabc321@gmail.com
-- 機構 : 逢甲大學 數據科學碩士學位學程
+- 機構 : Feng Chia University, Master's Program of Data Science (逢甲大學 數據科學碩士學位學程)
 - 作者 : Chin-Chieh Hsiao (蕭晉杰)
 - 指導教授 : Cheng-Shu You (游承書 博士)
 - 建立時間 : 2025.04.27

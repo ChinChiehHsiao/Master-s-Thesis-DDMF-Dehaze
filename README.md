@@ -3,7 +3,7 @@
 ![tensorflow](https://img.shields.io/badge/tensorflow-2.1.0-green)
 ---
 
-<img width="2559" height="1339" alt="螢幕擷取畫面 2025-07-14 142133" src="https://github.com/user-attachments/assets/ebf36278-c10d-4deb-ac9a-84578aa6b267" /><br><br>
+<img width="2182" height="1440" alt="螢幕擷取畫面 2025-08-03 175937" src="https://github.com/user-attachments/assets/fa533527-5ace-46fd-bec4-4f40c3ed92ab" /><br><br>
 
 
 ## 實驗結果

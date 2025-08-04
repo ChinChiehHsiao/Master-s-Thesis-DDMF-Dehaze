@@ -24,7 +24,8 @@
 
 ### 實際去霧影片展示
  - bear : [https://www.youtube.com/watch?v=pj-x6Am7u2Y](https://www.youtube.com/watch?v=pj-x6Am7u2Y)、[https://www.youtube.com/watch?v=EKMQU_VUEKw](https://www.youtube.com/watch?v=EKMQU_VUEKw)
- - dashcam 1 : [https://www.youtube.com/watch?v=ZS3uBpWSmKA](https://www.youtube.com/watch?v=ZS3uBpWSmKA)<br><br>
+ - dashcam 1 : [https://www.youtube.com/watch?v=ZS3uBpWSmKA](https://www.youtube.com/watch?v=ZS3uBpWSmKA)、[https://www.youtube.com/watch?v=R2hlng8gy6A](https://www.youtube.com/watch?v=R2hlng8gy6A)<br><br>
+
 
 
 ## 訓練與測試

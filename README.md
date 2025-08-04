@@ -22,6 +22,8 @@
 ![image](https://github.com/user-attachments/assets/5a2b432c-8e73-4e47-891e-22ed6466724a)
 ![image](https://github.com/user-attachments/assets/774eaa86-eb54-4858-a9b3-7d8b955b9292)<br><br>
 
+### 實際去霧影片展示
+ - bear : [點擊此連結](https://www.youtube.com/watch?v=pj-x6Am7u2Y)<br><br>
 
 
 ## 訓練與測試

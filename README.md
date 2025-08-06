@@ -22,7 +22,7 @@
 ![image](https://github.com/user-attachments/assets/5a2b432c-8e73-4e47-891e-22ed6466724a)
 ![image](https://github.com/user-attachments/assets/774eaa86-eb54-4858-a9b3-7d8b955b9292)<br><br>
 
-### 實際去霧影片展示
+### 實際去霧影片
  - bear : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=pj-x6Am7u2Y)、[(hazy, dehaze)](https://www.youtube.com/watch?v=EKMQU_VUEKw)
  - dashcam 1 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=ZS3uBpWSmKA)、[(hazy, dehaze)](https://www.youtube.com/watch?v=R2hlng8gy6A)
  - dashcam 3 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=lZ08_eqMd_0)、[(hazy, dehaze)](https://www.youtube.com/watch?v=h8caJTe-wEI)

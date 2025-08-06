@@ -25,8 +25,9 @@
 ### 實際去霧影片展示
  - bear : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=pj-x6Am7u2Y)、[(hazy, dehaze)](https://www.youtube.com/watch?v=EKMQU_VUEKw)
  - dashcam 1 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=ZS3uBpWSmKA)、[(hazy, dehaze)](https://www.youtube.com/watch?v=R2hlng8gy6A)
- - dashcam 3 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=lZ08_eqMd_0)、[(hazy, dehaze)](https://www.youtube.com/watch?v=h8caJTe-wEI)<br><br>
-
+ - dashcam 3 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=lZ08_eqMd_0)、[(hazy, dehaze)](https://www.youtube.com/watch?v=h8caJTe-wEI)
+ - dashcam 3 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=EVcq2cnNCWQ)、[(hazy, dehaze)](https://www.youtube.com/watch?v=yT34_U8t2r4)<br><br>
+ 
 
 
 ## 訓練與測試

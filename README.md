@@ -26,8 +26,8 @@
  - bear : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=pj-x6Am7u2Y)、[(hazy, dehaze)](https://www.youtube.com/watch?v=EKMQU_VUEKw)
  - dashcam 1 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=ZS3uBpWSmKA)、[(hazy, dehaze)](https://www.youtube.com/watch?v=R2hlng8gy6A)
  - dashcam 3 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=lZ08_eqMd_0)、[(hazy, dehaze)](https://www.youtube.com/watch?v=h8caJTe-wEI)
- - dashcam 4 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=EVcq2cnNCWQ)、[(hazy, dehaze)](https://www.youtube.com/watch?v=yT34_U8t2r4)<br><br>
- 
+ - dashcam 4 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=EVcq2cnNCWQ)、[(hazy, dehaze)](https://www.youtube.com/watch?v=yT34_U8t2r4)
+ - dashcam 4 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=ZtSpRZ7tBPM)、[(hazy, dehaze)](https://www.youtube.com/watch?v=VK3VpuHD0Fs)<br><br> 
 
 
 ## 訓練與測試
@@ -62,4 +62,4 @@
 - 作者 : Chin-Chieh Hsiao (蕭晉杰)
 - 指導教授 : Cheng-Shu You (游承書 博士)
 - 建立時間 : 2025.04.27
-- 最後更新 : 2025.08.05
+- 最後更新 : 2025.08.07

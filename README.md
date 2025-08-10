@@ -25,6 +25,7 @@
 ### 實際去霧影片
  - bear : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=pj-x6Am7u2Y)、[(hazy, dehaze)](https://www.youtube.com/watch?v=EKMQU_VUEKw)
  - dashcam 1 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=ZS3uBpWSmKA)、[(hazy, dehaze)](https://www.youtube.com/watch?v=R2hlng8gy6A)
+ - dashcam 7 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=kNjC4ndUewU)、[(hazy, dehaze)](https://www.youtube.com/watch?v=hHgnHUj8PEI)
  - dashcam 3 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=lZ08_eqMd_0)、[(hazy, dehaze)](https://www.youtube.com/watch?v=h8caJTe-wEI)
  - dashcam 4 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=EVcq2cnNCWQ)、[(hazy, dehaze)](https://www.youtube.com/watch?v=yT34_U8t2r4)
  - dashcam 5 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=ZtSpRZ7tBPM)、[(hazy, dehaze)](https://www.youtube.com/watch?v=VK3VpuHD0Fs)

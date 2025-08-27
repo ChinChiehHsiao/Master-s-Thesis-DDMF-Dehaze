@@ -31,8 +31,9 @@
  - dashcam 5 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=ZtSpRZ7tBPM)、[(hazy, dehaze)](https://www.youtube.com/watch?v=VK3VpuHD0Fs)
  - dashcam 6 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=8ZyHo0kDyBs)、[(hazy, dehaze)](https://www.youtube.com/watch?v=ISlnVbWr1qE)
  - dashcam 8 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=l5XBZAJMqyY)、[(hazy, dehaze)](https://www.youtube.com/watch?v=8FuxsAphz-I)
- - Formula 1 video-1 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=J1ESj9awHtw)、[(hazy, dehaze)](https://www.youtube.com/watch?v=lRwd3OHeDus)<br><br>
- 
+ - Formula 1 video-1 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=J1ESj9awHtw)、[(hazy, dehaze)](https://www.youtube.com/watch?v=lRwd3OHeDus)
+ - Formula 1 video-2 : [(hazy, dehaze)](https://www.youtube.com/watch?v=kDqEii7e-gY)<br><br>
+
 
 
 ## 訓練與測試

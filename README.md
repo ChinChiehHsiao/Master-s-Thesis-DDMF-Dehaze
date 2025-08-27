@@ -30,7 +30,8 @@
  - dashcam 4 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=EVcq2cnNCWQ)、[(hazy, dehaze)](https://www.youtube.com/watch?v=yT34_U8t2r4)
  - dashcam 5 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=ZtSpRZ7tBPM)、[(hazy, dehaze)](https://www.youtube.com/watch?v=VK3VpuHD0Fs)
  - dashcam 6 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=8ZyHo0kDyBs)、[(hazy, dehaze)](https://www.youtube.com/watch?v=ISlnVbWr1qE)
- - dashcam 8 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=l5XBZAJMqyY)、[(hazy, dehaze)](https://www.youtube.com/watch?v=8FuxsAphz-I)<br><br>
+ - dashcam 8 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=l5XBZAJMqyY)、[(hazy, dehaze)](https://www.youtube.com/watch?v=8FuxsAphz-I)
+ - Formula 1 video-1 : [(hazy, dehaze, depth)](https://www.youtube.com/watch?v=J1ESj9awHtw)、[(hazy, dehaze)](https://www.youtube.com/watch?v=lRwd3OHeDus)<br><br>
  
 
 
@@ -66,4 +67,4 @@
 - 作者 : Chin-Chieh Hsiao (蕭晉杰)
 - 指導教授 : Cheng-Shu You (游承書 博士)
 - 建立時間 : 2025.04.27
-- 最後更新 : 2025.08.13
+- 最後更新 : 2025.08.27
